@@ -90,5 +90,5 @@ START rămâne mereu în starea 0 (resetul registrului).
 Proiectul se bazează pe metoda de alocare prezentată la cursul de Calculatoare Numerice (automate microprogramate cu format fix și variabil). Materialele cursului nu fac parte din acest repository.
 
 ## Autor
-Modrangu Robert Constantin, student la Facultatea de Electronică, Comunicații și Calculatoare, Universitatea Politehnica București – Centrul Universitar Pitești.
+Modrangu Robert Constantin,student Universitatea Politehnica București – Centrul Universitar Pitești.
 
