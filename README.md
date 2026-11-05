@@ -1,5 +1,5 @@
 # Generator de Mapare Memorie ROM
-# Generator de mapare ROM pentru automate microprogramate
+## Generator de mapare ROM pentru automate microprogramate
 
 Aplicație consolă C# (.NET 8) care transformă o **organigramă de microinstrucțiuni** într-un **tabel de alocare a memoriei ROM**, pentru automate microprogramate cu **format variabil** și cu **format fix**. A fost făcută ca unealtă pentru studenții la Arhitectura Calculatoarelor (Calculatoare Numerice), ca să automatizeze o lucrare care se face de obicei manual.
 
@@ -90,6 +90,5 @@ START rămâne mereu în starea 0 (resetul registrului).
 Proiectul se bazează pe metoda de alocare prezentată la cursul de Calculatoare Numerice (automate microprogramate cu format fix și variabil). Materialele cursului nu fac parte din acest repository.
 
 ## Autor
-Modrangu Robert Constantin, student la Facultatea de Electronică, Comunicații și Calculatoare, Universitatea Politehnica București – Centrul Universitar Pitești.
 Modrangu Robert Constantin, student la Facultatea de Electronică, Comunicații și Calculatoare, Universitatea Politehnica București – Centrul Universitar Pitești.
 
